@@ -3,6 +3,11 @@ body {
   font-family: "Figtree", sans-serif;
 }
 
+h2:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
 .container {
   display: flex;
   justify-content: center;

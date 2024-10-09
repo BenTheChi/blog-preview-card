@@ -18,7 +18,7 @@ h2:hover {
 .card {
   width: 334px;
   background-color: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 8px 0px 1px rgba(0, 0, 0, 0.9);
   border-radius: 9px;
   padding: 20px;
   margin: auto;
